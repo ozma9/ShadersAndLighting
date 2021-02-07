@@ -1,0 +1,25 @@
+The Author would like to credit the following people whos resources were used in this project.
+
+
+* Zabin and Jetrel
+* "Camp Fire Animation for RPGs"
+* http://opengameart.org/content/camp-fire-animation-for-rpgs-finished
+
+
+* hc
+* "Lens-Flares and Particles"
+* http://opengameart.org/content/lens-flares-and-particles
+
+
+* Hanzo Kimura
+* "Valkyrie Stories Tileset"
+* http://www.rpgmakervx.net/index.php?showtopic=47180
+
+
+* Gary M. Josack
+* Effect File and Shader tutorial
+* http://blog.josack.com/2011/07/xna-2d-dynamic-lighting.html
+
+
+
+I'm sorry if I missed anyone!
